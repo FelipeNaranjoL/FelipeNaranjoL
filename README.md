@@ -76,8 +76,7 @@
   <a href="https://www.linkedin.com/in/felipe-naranjo-l%C3%B3pez-09a0a9224/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:fe.naranjo@duocuc.cl">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
+  <img src="https://img.shields.io/badge/Correo-fe.naranjo@duocuc.cl-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
 </span>
+
 
